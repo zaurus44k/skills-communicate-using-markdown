@@ -13,3 +13,9 @@ a short, meaningful commit message that describes the change you made to the fil
 ```fortran
 write(*,*) "Hello, world!"
 ```
+
+## Step 4: Make a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
